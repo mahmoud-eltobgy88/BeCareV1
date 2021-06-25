@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".aboutFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- TODO: Update blank fragment layout -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:paddingTop="10dp"
+                android:text="BECare"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="MEDICAL MARKETING SOLUTION"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:paddingTop="10dp"
+                android:text="بي كير لتسويق الخدمات الطبية"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text="يعد التسويق فى الوقت الحاضر من المجالات الحيويه التى تمثل احد اهم التحديات امام المنظمات الخدميه  بكافه انواعها فنحن بحق فى عصر  التسويق الذى اصبح يمثل الاسس التى يمكن من خلالها الحكم بين المنظمات الناجحه و الرائده فى الصناعات الخدميه."
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text="لذلك نحن فى بى كير علمنا ان التسويق يجب ان يواكب التطوير المستمر و خاصه فى مجال الرعايه الصحيه حيث نشهد فى عصرنا الحالى اهميه التسويق الإلكتروني."
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text="خلافا للمجالات الاخرى فان مجال الرعايه الصحيه يخدم جمهورا واسعا للغايه  كما اصبح جمهور اليوم اكثر اعتمادا على مواقع التواصل وللتطبيقات على الهواتف الذكيه."
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text="لذاك اوجدنا العديد من البرامج التسويقيه المختلفه التى بدورها ستقوم بفتح اسواق جديده و تقديم افضل خدمه لعملائنا."
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text="نقوم فى شركتنا بخدمه الافراد و المؤسسات على حد سواء عن طريق تخفيض تكلفه الخدمات الطبيه المختلفه على مدار السنه فى افضل المستشفيات واكفاء معامل التحاليل و مراكز الاشعه و الاسنان و العيون وكل ماهو متعلق بالصحه."
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:paddingTop="10dp"
+                android:text="للتواصل اسحب -->  "
+                android:textSize="20sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
